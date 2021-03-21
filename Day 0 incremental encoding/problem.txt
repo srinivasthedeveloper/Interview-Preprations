@@ -1,0 +1,12 @@
+What could be the expression in the follwing program to get the below,
+
+Case 1:
+	INPUT:-
+		CHOCOCAKE
+	OUTPUT:-
+		CIQFSHGRM
+Case 2:
+	INPUT:-
+		icecream
+	OUTPUT:-
+		idgfvjgt
